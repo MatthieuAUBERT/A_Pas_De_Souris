@@ -4,9 +4,9 @@ using UnityEngine.SceneManagement;
 public class LoadSalles : MonoBehaviour
 {
 
-    public void Salle1()
+    public void Salle1(string salle)
     {
-        SceneManager.LoadScene("Salle 1");
+        SceneManager.LoadScene(salle);
     }
     public void Salle2()
     {
