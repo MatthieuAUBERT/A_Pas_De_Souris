@@ -330,6 +330,7 @@
 "Assets/Scripts/Menu/MainMenu.cs"
 "Assets/Scripts/Menu/StartGame.cs"
 "Assets/Scripts/Others/CameraController.cs"
+"Assets/Scripts/Others/InkManager.cs"
 "Assets/Scripts/Others/OnClick.cs"
 "Assets/Scripts/Others/Script Plot.cs"
 -langversion:8.0
