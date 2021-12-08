@@ -8,4 +8,5 @@ public class LoadSalles : MonoBehaviour
     {
         SceneManager.LoadScene(salle);
     }
+
 }
