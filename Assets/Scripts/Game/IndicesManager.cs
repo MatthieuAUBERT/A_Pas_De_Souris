@@ -16,10 +16,13 @@ public class IndicesManager : MonoBehaviour
     public void SetIndicesUIActive(bool a)
     {
         IndicesUI.SetActive(a);
-        Debug.Log(gm.clues);
         if (gm.clues.IndexOf("Banane") >= 0)
         {
             BananeUI.SetActive(true);
+        }
+        else
+        {
+            Debug.Log("No");
         }
     }
 
