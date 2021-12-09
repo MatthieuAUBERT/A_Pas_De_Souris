@@ -9,7 +9,7 @@ public class InteractWithGameManager : MonoBehaviour
         gm = ManagerManager.Instance.gameManager;
     }
 
-    public void AddClue(string clueName)
+    public void ClueAdd(string clueName)
     {
         gm.clues.Add(clueName);
     }

@@ -321,6 +321,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/Game/GameManager.cs"
+"Assets/Scripts/Game/IndicesManager.cs"
 "Assets/Scripts/Game/InteractWithGameManager.cs"
 "Assets/Scripts/Game/LoadSalles.cs"
 "Assets/Scripts/Game/System/ManagerManager.cs"
@@ -333,7 +334,6 @@
 "Assets/Scripts/Others/InkManager.cs"
 "Assets/Scripts/Others/NextButtonScript.cs"
 "Assets/Scripts/Others/OnClick.cs"
-"Assets/Scripts/Others/Script Plot.cs"
 -langversion:8.0
 
 /deterministic
