@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        clues = new List<string>();
     }
 
     // Update is called once per frame
