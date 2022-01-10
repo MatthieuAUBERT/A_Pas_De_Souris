@@ -193,9 +193,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Version Alpha/Proto\nAucun asset qui sera pr\xE9sent dans la Release n'a
-    \xE9t\xE9 inclus. Certaines fonctionnalit\xE9s ne r\xE9pondront pas \xE0 l'attente
-    du testeur."
+  m_Text: "Version Alpha V2\nCertaines fonctionnalit\xE9s ne r\xE9pondront pas \xE0
+    l'attente du testeur."
 --- !u!222 &11431030
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -318,7 +317,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 100}
+  m_SizeDelta: {x: 1371.4, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &66719937
 MonoBehaviour:
@@ -353,7 +352,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Cravate : Une simple cravate ... Peut-\xEAtre appartient-elle au voleur."
+  m_Text: "Le voleur devrait conna\xEEtre chaque pi\xE8ce comme sa poche. Il doit
+    passer du temps dans chacune d'elles"
 --- !u!222 &66719938
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1336,7 +1336,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -87}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 260, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &416466968
 MonoBehaviour:
@@ -1371,7 +1371,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Souris 1
+  m_Text: Rass Yoh, l'avocat
 --- !u!222 &416466969
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1646,7 +1646,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 100}
+  m_SizeDelta: {x: 1358, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &654932485
 MonoBehaviour:
@@ -1681,7 +1681,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Maquillage : Bizarre ...  Un trousse de maquillage ...'
+  m_Text: "Le voleur doit \xEAtre v\xEAtu d'un habit large et ample pour dissimuler
+    son butin avant de l'avoir cach\xE9 !"
 --- !u!222 &654932486
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2072,8 +2073,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -89}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 3, y: -87}
+  m_SizeDelta: {x: 315, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1157234670
 MonoBehaviour:
@@ -2108,7 +2109,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Souris 2
+  m_Text: Plume Aublant, la juge
 --- !u!222 &1157234671
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2601,7 +2602,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Haut-de-forme : Il a \xE9t\xE9 retrouv\xE9 dans le couloir, en lambeaux"
+  m_Text: Il semble que le voleur travaille ici, au sein du Parlement.
 --- !u!222 &1511147408
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2707,7 +2708,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 100}
+  m_SizeDelta: {x: 1365, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1610707401
 MonoBehaviour:
@@ -2742,8 +2743,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Banane : Il semble qu'une banane ait \xE9t\xE9 retrouv\xE9 sur la sc\xE8ne
-    du crime"
+  m_Text: Il semble que le voleur porte un couvre-chef. Un chapeau, une casquette,
+    une perruque...
 --- !u!222 &1610707402
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2787,7 +2788,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -88}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 260, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1638674567
 MonoBehaviour:
@@ -2822,7 +2823,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Souris 3
+  m_Text: Serge Pierre, l'agent d'entretien
 --- !u!222 &1638674568
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2866,7 +2867,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 2, y: -86}
-  m_SizeDelta: {x: 160, y: 30}
+  m_SizeDelta: {x: 320, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1662012227
 MonoBehaviour:
@@ -2901,7 +2902,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Souris 4
+  m_Text: "T\xE9mala Taydura, la star"
 --- !u!222 &1662012228
 CanvasRenderer:
   m_ObjectHideFlags: 0
