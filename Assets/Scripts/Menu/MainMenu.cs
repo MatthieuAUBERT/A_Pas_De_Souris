@@ -3,16 +3,21 @@ using UnityEngine;
 
 public class MainMenu : MonoBehaviour
 {
-
+    public GameObject CréditsObject;
     public void StartGame()
     {
         SceneManager.LoadScene("StartGame");
     }
 
 
-    public void Quit()
+    public void CréditsOn()
     {
-        Debug.Log("Quit");
-        Application.Quit();
+        Debug.Log("Crédits");
+        CréditsObject.SetActive(true);
+    }
+
+    public void CréditsOff()
+    {
+        CréditsObject.SetActive(false);
     }
 }

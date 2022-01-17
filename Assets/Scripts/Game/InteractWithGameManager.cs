@@ -12,6 +12,8 @@ public class InteractWithGameManager : MonoBehaviour
     public void ClueAdd(string clueName)
     {
         gm.clues.Add(clueName);
+        Debug.Log(clueName);
     }
+
 
 }
