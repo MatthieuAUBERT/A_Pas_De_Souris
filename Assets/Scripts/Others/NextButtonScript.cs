@@ -5,6 +5,8 @@ public class NextButtonScript : MonoBehaviour
 {
     private InkManager _inkManager;
 
+    public GameObject Container;
+
     private int compteur = 0;
 
     void Start()
@@ -15,6 +17,10 @@ public class NextButtonScript : MonoBehaviour
         {
             Debug.LogError("Ink Manager was not found!");
         }
+    }
+    public void StartStory()
+    {
+        Container.SetActive(true);
     }
 
     public void OnClick()
@@ -28,6 +34,14 @@ public class NextButtonScript : MonoBehaviour
         if (compteur >= 7)
         {
             SceneManager.LoadScene("Hub");
+        }
+    }
+
+    public void EndScriptSalle()
+    {
+        if (compteur >= 6)
+        {
+            Container.SetActive(false);
         }
     }
 }
